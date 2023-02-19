@@ -1,0 +1,30 @@
+root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --font-pirata-one: "Pirata One";
+  --font-seravek: Seravek;
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-4xs: 11.17px;
+  --font-size-3xs: 13.77px;
+  --font-size-2xs: 13.53px;
+  --font-size-xs: 15.3px;
+  --font-size-sm: 15.03px;
+  --font-size-base: 22.95px;
+  --font-size-lg: 22.55px;
+  --font-size-xl: 29.94px;
+  --font-size-2xl: 44.4px;
+  --font-size-3xl: 51.05px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-whitesmoke-100: #eeece7;
+  --color-midnightblue: #201558;
+  --color-orange: #ffb600;
+  --color-hotpink: #d959ac;
+  --color-aliceblue: #e9ecf4;
+
+  /* Paddings */
+  --padding-md: 9.57252025604248px;
+}
